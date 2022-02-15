@@ -15,9 +15,13 @@ Você pode acessar o projeto através deste <a href="https://rodrigogaleano.gith
   <li>JavaScript</li>
 </ul>
 
+---
 ### Autor
 
-Feito por Rodrigo Galeano
+<img src="https://github.com/rodrigogaleano.png" width="100px" style="border-radius:50%"> <br>
+Feito com ❤ por <b>Rodrigo Galeano</b> <br>
+ 
+Entre em contato comigo:
 
 <a href="https://instagram.com/rodrigo1galeano" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rodrigo1galeano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
